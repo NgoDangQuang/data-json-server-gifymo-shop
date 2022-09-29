@@ -1,0 +1,53 @@
+@baseUrl = http://localhost:3000/api
+@resourceName = products
+
+# Categories 
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+### 
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?price_gte=600
+
+
+###
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=20
+
+
+###
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+
+
+###
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "974f497e-5a9b-4bb7-a59f-5e8f0c7f7011",
+    "name": "Oriental Metal Tuna Test",
+    "color": "magenta",
+    "price": 777,
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "thumbnailUrl": "https://loremflickr.com/400/400"
+}
+
+
+### 
+# @name updated
+PATCH {{baseUrl}}/{{resourceName}}/BH9uNwo
+Content-Type: application/json
+
+{
+  "name": "Oriental Metal Tuna Update",
+  "color": "green",
+  "price": 888
+}
+
+
+### 
+# @name remove
+DELETE  {{baseUrl}}/{{resourceName}}/4

@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "d1f8e571-c3ef-40f7-a4ec-8d6a6fb7157e",
+      "name": "Music",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089
+    },
+    {
+      "id": "49c74962-8f1b-40df-a647-054d59e157e8",
+      "name": "Baby",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089
+    },
+    {
+      "id": "b2f1a81f-cabf-4a70-99e6-e468811d59be",
+      "name": "Grocery",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089
+    },
+    {
+      "id": "d48d7d3c-c470-4167-b91a-b2f8c9344a8a",
+      "name": "Shoes",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "d1f8e571-c3ef-40f7-a4ec-8d6a6fb7157e",
+      "id": "aeffd811-e07b-4676-bdb0-bc084f16880a",
+      "name": "Elegant Plastic Ball",
+      "color": "teal",
+      "price": 86,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d1f8e571-c3ef-40f7-a4ec-8d6a6fb7157e",
+      "id": "4eaecba8-3a0c-4fd9-9726-dd0cc456f54a",
+      "name": "Electronic Metal Table",
+      "color": "pink",
+      "price": 767,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d1f8e571-c3ef-40f7-a4ec-8d6a6fb7157e",
+      "id": "2b8a51fa-9eba-41b2-8131-80e76d89cd98",
+      "name": "Awesome Rubber Pants",
+      "color": "olive",
+      "price": 207,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d1f8e571-c3ef-40f7-a4ec-8d6a6fb7157e",
+      "id": "4e35a414-6e9b-41ce-a294-1394abb9138b",
+      "name": "Modern Soft Ball",
+      "color": "plum",
+      "price": 528,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1664442554089,
+      "updatedAt": 1664442554089,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d1f8e571-c3ef-40f7-a4ec-8d6a6fb7157e",
+      "id": "53a726e9-174f-44d1-bfff-42c49537c824",
+      "name": "Handmade Granite Keyboard",
+      "color": "gold",
+      "price": 866,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "49c74962-8f1b-40df-a647-054d59e157e8",
+      "id": "db66918a-4f41-4dcc-a281-7e8e4f3dad30",
+      "name": "Incredible Soft Chips",
+      "color": "lime",
+      "price": 846,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "49c74962-8f1b-40df-a647-054d59e157e8",
+      "id": "8ac94956-0c52-4e4e-a99a-6589812b1d3a",
+      "name": "Fantastic Concrete Soap",
+      "color": "tan",
+      "price": 261,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "49c74962-8f1b-40df-a647-054d59e157e8",
+      "id": "403471f3-d306-4bf2-a851-b6ce4961b417",
+      "name": "Oriental Plastic Chicken",
+      "color": "turquoise",
+      "price": 773,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "49c74962-8f1b-40df-a647-054d59e157e8",
+      "id": "a71e5773-7eb2-44f5-b854-90ea839e3c6d",
+      "name": "Tasty Bronze Gloves",
+      "color": "gold",
+      "price": 866,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "49c74962-8f1b-40df-a647-054d59e157e8",
+      "id": "f691861e-5eb5-4ce3-99ee-e9428628fd90",
+      "name": "Sleek Concrete Pants",
+      "color": "cyan",
+      "price": 845,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b2f1a81f-cabf-4a70-99e6-e468811d59be",
+      "id": "83abcf95-fa58-4fcd-8b9f-52bce3d4541c",
+      "name": "Licensed Plastic Bacon",
+      "color": "black",
+      "price": 439,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b2f1a81f-cabf-4a70-99e6-e468811d59be",
+      "id": "39294f89-895d-4fb7-aa3a-76f624d5a2ae",
+      "name": "Handcrafted Steel Pizza",
+      "color": "fuchsia",
+      "price": 914,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b2f1a81f-cabf-4a70-99e6-e468811d59be",
+      "id": "714f9e4f-d246-443d-9511-e386c0d08a90",
+      "name": "Luxurious Frozen Table",
+      "color": "indigo",
+      "price": 201,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b2f1a81f-cabf-4a70-99e6-e468811d59be",
+      "id": "1c2687c1-4694-432c-add3-7cc276a84784",
+      "name": "Rustic Fresh Fish",
+      "color": "pink",
+      "price": 474,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b2f1a81f-cabf-4a70-99e6-e468811d59be",
+      "id": "584bca1e-53a7-49a7-8517-98bde6366c6a",
+      "name": "Rustic Steel Soap",
+      "color": "sky blue",
+      "price": 440,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d48d7d3c-c470-4167-b91a-b2f8c9344a8a",
+      "id": "21eb01ea-d84a-42d5-b586-e68a230e95f3",
+      "name": "Handmade Wooden Ball",
+      "color": "lime",
+      "price": 449,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1664442554090,
+      "updatedAt": 1664442554090,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d48d7d3c-c470-4167-b91a-b2f8c9344a8a",
+      "id": "d1ced31e-c82c-4e91-b6dd-4e5d1179e2df",
+      "name": "Intelligent Concrete Chips",
+      "color": "pink",
+      "price": 804,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1664442554091,
+      "updatedAt": 1664442554091,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d48d7d3c-c470-4167-b91a-b2f8c9344a8a",
+      "id": "31781fdf-6d7f-48a6-96f9-c8fe87f403af",
+      "name": "Fantastic Fresh Pants",
+      "color": "lime",
+      "price": 515,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1664442554091,
+      "updatedAt": 1664442554091,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d48d7d3c-c470-4167-b91a-b2f8c9344a8a",
+      "id": "b9706d81-9228-4fc7-8d59-7094441faafc",
+      "name": "Recycled Soft Sausages",
+      "color": "plum",
+      "price": 435,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1664442554091,
+      "updatedAt": 1664442554091,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d48d7d3c-c470-4167-b91a-b2f8c9344a8a",
+      "id": "8de574db-8e00-469e-9caf-c41b08de82a5",
+      "name": "Luxurious Cotton Table",
+      "color": "ivory",
+      "price": 588,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1664442554091,
+      "updatedAt": 1664442554091,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    }
+  ],
+  "profile": { "name": "Quang" }
+}
